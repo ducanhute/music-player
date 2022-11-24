@@ -1,6 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-You will also see any lint errors in the console.
+## MUSIC PLAYER APP
+This project was builded with HTML, CSS, Javascript (No framework)
+Live demo: https://ducanh2kone.github.io/music-player/
 
